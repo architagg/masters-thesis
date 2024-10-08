@@ -1,6 +1,6 @@
-# Master's Thesis Project - [Investigating bias in different language editions of Wikipedia]
+# Master's Thesis Project - Investigating bias in different language editions of Wikipedia
 
-This repository contains the code and associated files for my Master's Thesis in the field of Data Science, submitted to the University of Melbourne. The research conducted for this thesis involved a detailed exploration of [your research area], and the results have been documented thoroughly in the accompanying report.
+This repository contains the code and associated files for my Master's Thesis in the field of Natural Language Processing, submitted to the University of Melbourne. The research conducted for this thesis involved a detailed exploration of Wikipedia in different language editions, and the results have been documented thoroughly in the accompanying report.
 
 ## Abstract
 
